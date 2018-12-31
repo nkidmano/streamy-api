@@ -1,3 +1,32 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "C9 Sneaky",
+      "description": "Welcome to my butthole",
+      "id": 1
+    },
+    {
+      "title": "C9 Kind Boy",
+      "description": "Korean Cyber Bully",
+      "id": 2
+    },
+    {
+      "title": "C9 Eias",
+      "description": "Best Jungler LoL",
+      "userId": "114629547011046918437",
+      "id": 3
+    },
+    {
+      "title": "C9 Gay",
+      "description": "Sneaky fake account",
+      "userId": "103600803941531893844",
+      "id": 5
+    },
+    {
+      "title": "Dark Souls",
+      "description": "Prepare your anus",
+      "userId": "114629547011046918437",
+      "id": 6
+    }
+  ]
 }
